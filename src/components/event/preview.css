@@ -1,0 +1,62 @@
+.imgg {
+  width: 100%;
+}
+.cad {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(221, 221, 221);
+  width: 40%;
+  height: 500px;
+  border-radius: 10px;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 15px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  
+}
+.area,
+.short {
+  width: 25%;
+}
+.card {
+  display: flex;
+  align-items: center;
+}
+.calendar {
+  color: rgb(24, 60, 204);
+}
+.time {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  color: blue;
+}
+.video{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    margin:15px;
+    margin-right: 23px;
+}
+.timee {
+  color: rgb(24, 60, 204);
+  font-size: 24px;
+  margin-right: 23px;
+}
+.price{
+    color: rgb(82, 194, 95);
+    font-weight: bold;
+}
+.belowdata {
+  display: flex;
+  flex-direction: column;
+  justify-self: start;
+  align-items: flex-start;
+  width: 100%;
+
+  margin: 15px;
+}

@@ -1,0 +1,29 @@
+.sidebar{
+    /* display: flex;
+    align-items: center;
+    justify-self: center; */
+    /* margin-left: 15px; */
+    width: 15vw;
+    background-color:rgb(46, 40, 40);
+    height: 100vh;
+    /* position: absolute; */
+    
+
+}
+.dashbtn{
+    /* display: flex;
+    align-items: center;
+    justify-self: center; */
+    margin-left: 25px;
+    text-align: center;
+    margin-top: 20px;
+    width: 12vw;
+    height: 50px;
+    background-color:red;
+    font-weight: bold;
+    font-size: 17px;
+
+    border: none;
+    border-radius:10px;
+    color:white;
+}

@@ -1,0 +1,35 @@
+
+.home{
+    /* position: absolute; */
+    display: flex;
+    flex-direction: row;
+   
+}
+.homedata{
+    margin-left: 19px;
+    margin-top: 29px;
+}
+.h3{
+    color: rgb(152, 137, 137);
+}
+.homebtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    width:15vw;
+    padding: 3px;
+    height: 10vh;
+    background-color:white;
+    border: 0.5px solid rgb(152, 137, 137);
+    border-radius : 8px;
+    font-size: 22px;    
+    font-weight: 500;
+    margin-top: 50px;
+}
+.icon{
+    font-size :30px;
+    margin-right: 30px; 
+    height: 100px;
+    width: 100px;
+}

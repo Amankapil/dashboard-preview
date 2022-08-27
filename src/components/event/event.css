@@ -1,0 +1,63 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 9px;
+}
+.event{
+    margin: 9px;
+}
+.backbtn{
+    color: blue;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size : 22px;
+    /* padding: 4px; */
+    background-color:white;
+}
+.icon{
+    margin-right: 9px;
+}
+.prevbtn{
+    width: 12vw;
+    height: 8vh;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid red;
+    background-color:white;
+}
+.prevbtn:hover{
+    background-color:red;
+}
+.formm form{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+}
+.side-1{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+.side-2{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+
+}
+.savebtn{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center; 
+     width: 100%;
+    /* display: block; */
+    margin: 0;
+}
+.btn{
+    width: 25%;
+    border-radius:9px;
+    
+}
